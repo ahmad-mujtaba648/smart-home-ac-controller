@@ -17,16 +17,16 @@ This mini project simulates how a **smart home AC system** makes decisions autom
 | Temperature ≥ 45°C | Critical Heat — AC at Maximum Power |
 | Temperature ≥ 30°C + 5 or more people | Turbo Mode Activated |
 | Temperature ≥ 30°C + less than 5 people |  Normal Mode (22°C) |
-| Temperature < 20°C | 💤 AC turns OFF (Energy Saving) |
-| Otherwise | 🌿 Eco Mode runs |
+| Temperature < 20°C |  AC turns OFF (Energy Saving) |
+| Otherwise |  Eco Mode runs |
 
 ---
 
 # Sample Output
 
-![Output 1](output-1.png)
-![Output 2](output-2.png)
-![Output 3](output-3.png)
+![Output 1](Output-1.png)
+![Output 2](Output-2.png)
+![Output 3](Output-3.png)
 
 ---
 
