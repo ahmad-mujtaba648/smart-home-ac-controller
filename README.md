@@ -25,7 +25,13 @@ This mini project simulates how a **smart home AC system** makes decisions autom
 # Sample Output
 
 ![Output 1](Output-1.png.png)
+
+
+
 ![Output 2](Output-2.png.png)
+
+
+
 ![Output 3](Output-3.png.png)
 
 ---
