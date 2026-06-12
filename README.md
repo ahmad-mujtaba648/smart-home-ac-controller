@@ -28,14 +28,14 @@ This mini project simulates how a **smart home AC system** makes decisions autom
 
 
 
-
+---
 
 
 
 ![Output 2](Output-2.png.png)
 
 
-
+---
 
 
 
