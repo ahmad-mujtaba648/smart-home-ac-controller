@@ -25,6 +25,7 @@ This mini project simulates how a **smart home AC system** makes decisions autom
 # Sample Output
 
 ![Output 1](Output-1.png.png)
+**Output 1** — Temperature 35°C with 6 people → Turbo Mode Activated
 
 ---
 ![Output 2](Output-2.png.png)
