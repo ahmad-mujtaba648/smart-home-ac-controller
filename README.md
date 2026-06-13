@@ -31,6 +31,8 @@ This mini project simulates how a **smart home AC system** makes decisions autom
 ---
 ![Output 2](Output-2.png.png)
 
+**Output 2** — Temperature 15°C → AC turned OFF automatically to save energy
+
 ---
 ![Output 3](Output-3.png.png)
 
