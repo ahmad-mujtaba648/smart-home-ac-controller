@@ -36,6 +36,8 @@ This mini project simulates how a **smart home AC system** makes decisions autom
 ---
 ![Output 3](Output-3.png.png)
 
+**Output 3** — Temperature 28°C → AC running in Eco Mode
+
 ---
 
 # How to Run
