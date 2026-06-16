@@ -60,7 +60,7 @@ This mini project simulates how a **smart home AC system** makes decisions autom
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
