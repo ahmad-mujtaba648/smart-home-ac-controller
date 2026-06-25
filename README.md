@@ -1,4 +1,4 @@
-# Smart Home AC Controller Simulation
+## Smart Home AC Controller Simulation
 
 > A Python-based IoT-inspired automation system that controls AC based on room temperature and occupancy.
 
